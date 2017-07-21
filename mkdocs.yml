@@ -1,3 +1,4 @@
+site_name: ReadTheDocs测试文档
 pages:
 - 首页: index.md
 - Ubuntu NFS使用: Ubuntu-NFS-Using.md
